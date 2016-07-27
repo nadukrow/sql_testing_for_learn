@@ -3,4 +3,5 @@ CREATE TABLE cats (
     name TEXT,
     age INTEGER,
     breed TEXT
+    owner_id INTEGER
 );
