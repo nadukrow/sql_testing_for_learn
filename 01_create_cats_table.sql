@@ -1,5 +1,6 @@
 CREATE TABLE cats (
-  id INTEGER PRIMARY KEY,
+    id INTEGER PRIMARY KEY,
     name TEXT,
-    age INTEGER
+    age INTEGER,
+    breed TEXT
 );
